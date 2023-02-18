@@ -1,0 +1,317 @@
+{
+  "home": [
+    {
+        "id":1,
+        "banner":"https://web-linkanh.vercel.app/image/Landing%20Page/IMG_4288.PNG",
+        "titleBanner":"DINH DIEU LINH",
+        "titleBanner2":"Personal Art Portfolio Website",
+        "video":"https://www.youtube.com/embed/bHUzhE0s9_s",
+        "product1Img":"https://web-linkanh.vercel.app/image/Landing%20Page/DSC_7243_Original.jpg",
+        "product1Txt":"FASHION",
+        "product2Img":"https://web-linkanh.vercel.app/image/Landing%20Page/IMG_4816.PNG",
+        "product2Txt":"SHOOTING",
+        "product3Img":"https://web-linkanh.vercel.app/image/Landing%20Page/IMG_4388.jpg",
+        "product3Txt":"DANCE",
+        "product4Img":"https://web-linkanh.vercel.app/image/Landing%20Page/IMG_2590.JPG",
+        "product4Txt":"PROJECTS"
+    }
+  ],
+  "info-fashion":[
+    {
+      "title":"FASHION",
+      "paragrap1":"In 2019, I founded my own fashion project under the name 'Lốc en Lock' or 'LnL Fashion Project.', which aims to provide a professional fashion environment for talented young designers in Hanoi, Vietnam.",
+      "paragrap2":"As a founder and a creative director, I directed around 40 members, including models, photographers, and makeup artists at that time. Here are some LnL's highlight collections . ",
+      "paragrap3":"(click into each picture to see the full collection)"
+    }
+  ],
+  "fashion":[
+    {
+      "id":1,
+      "avt":"https://web-linkanh.vercel.app/image/Trang%20Fashion/bia%20(1).jpg",
+      "detail1":"https://lh3.googleusercontent.com/pw/AMWts8D_o3d-U6X7RQhDtgvaCzZSFCKiZNR4A2tfRMSkniJeeC4GfpWbkwcpCWcW-Ai3doA7rwbenx9Sw1o8FHDiUme8jE2xh2aECurYS7bNP25ByNrKed5cXZW-y7dgqpng62kXy2t_yN-oksu-nle_we0t=w986-h657-no?authuser=0",
+      "detail2":"https://lh3.googleusercontent.com/pw/AMWts8CU4tIRcI36bCzyEMSOgcWOmlNNUojApKMzpsk5qVfxyiaGR7smnoogFSC-KexsdZNBr4mr-v0hi5fuf4KV3zfPanBhkdkg0wPUjeHdJCI8_ln67oNkvXZudXKJ3rgLJHi9SV_czynBhEGlaFUIeFcG=w986-h657-no?authuser=0",
+      "detail3":"https://lh3.googleusercontent.com/pw/AMWts8CgiWm0zd467E3uB6iRZ2hlqTFiOyCOp-yhw0UCcfQH1136ATUpmsS-IHCqRRmMuqTjBjLgJC4I71-Nz6D7ZGfgdJ14bAh7ke_1CZA6XIiiKdLh8LO6pp8JlTza_OVqdXSSdYSEN0wG53ZRH-bvyc-H=w986-h657-no?authuser=0"
+    },
+    {
+      "id":2,
+      "avt":"https://web-linkanh.vercel.app/image/Trang%20Fashion/bia.jpg",
+      "detail1":"https://lh3.googleusercontent.com/pw/AMWts8DUPlV3q83lRBEHEe_qgTO5iPdunh7PnsC4ZitT1L1Qfky5B8Q66YsQ3uCmz0_EDaXktktwmAf1zcw_V5erb26CDHLTWTEajk4nXXCbZ81YQRXhHlGsreFyhobOZ7h0TYcyD5iyznHWWrUrI65lG231=w890-h657-no?authuser=0",
+      "detail2":"https://lh3.googleusercontent.com/pw/AMWts8DkaXNNolXGEmFPQgSJGIpuI0ophS20l0YDfP0rA6V3GFRMP6Pi2PX3UiOwHSZY9mTX_lBBi99xxL5pvjFuM2ioo12AbdtCPFQkUuoAb3T4PyoYudlQZ566y4IuoJhCJx0057xyx9SHCC1ZrelKx9S2=w890-h657-no?authuser=0",
+      "detail3":"https://lh3.googleusercontent.com/pw/AMWts8CLomrUwb5uNNvSlfIlM9x6zzt_tyvNjf2rvuh5zNtZN3G0fyPCLhsSvnwBKzehhAFwThjnSUGsczrCrPu1CmoSp5gBNd_4zPQbj5gWk9kmJcQA3GJFygPxR4B_LxMRZ4Ka88kXdBW-cCoeousg42ol=w890-h657-no?authuser=0"
+    },
+    {
+      "id":3,
+      "avt":"https://web-linkanh.vercel.app/image/Trang%20Fashion/4%20(1).jpg",
+      "detail1":"https://lh3.googleusercontent.com/pw/AMWts8D86YqX0Vi-dX89gWgwkLW3fgOHaUceoSHQzQ3en0W5FjMC3Jia1iDCVqkoeAz4VggYEJgUHgCGKiiM-wScGS1FOrKiYxjKoOyJM-pbBNXmQCSHIYv8rrRdClty8te7UGBrVkJNxeb5L7DJxJYHF0jV=w920-h657-no?authuser=0",
+      "detail2":"https://lh3.googleusercontent.com/pw/AMWts8D34CVmm7Sp8gW6sc0trZxj7nb3CaCuxfdKLBKV9mtjWxAi4lubUX97L9h4qWp2j6YCLXK7-9o7903gQSzt3RfjE3TgwA5cbdXZcUCXi16QpQDjdblqvLl_ZQSq1GaFBOO9PKYZjDWIEjJh1Nzb2_HW=w920-h657-no?authuser=0",
+      "detail3":"https://lh3.googleusercontent.com/pw/AMWts8D8Psaw2Rxi7bMdobCYnE_Bguge5cV5Li5poGSZNQjYZyFCxVrn50dWOH6Z8Kt8m0z86FHkqU6FTdraUM1fFmNikzIvTgm9aTBmLmPBp9CI0FRhpV3tPxKFXvWMLDUsJ6PhLjIQrsWyoPMD5h-wG2W1=w920-h657-no?authuser=0"
+    },
+    {
+      "id":4,
+      "avt":"https://web-linkanh.vercel.app/image/Trang%20Fashion/_DSC5767.jpg",
+      "detail1":"https://lh3.googleusercontent.com/pw/AMWts8AHCeooiyNNRrmGYbP0M1PBdqmqWmGnsXKBSx8WfrsMAZrxcTV1mLWoxDLSgTP2uPzLW8FZFqKeqmmCPujwTtiHBYRwW1B4KopHCBN3VCf2r84KFc5MEABSCnRiFI2T2TL-hBsGv8NoEI-yC-Mr93ad=w680-h657-no?authuser=0",
+      "detail2":"https://lh3.googleusercontent.com/pw/AMWts8DzQ7t41hhpyUeHfZ-QNREWVH2wxpWXjFmYe2mDWfIn6csYogwmuqvR-TGILIzZDXSojdd6hRM1FtH1gjvPpkXizS3oXcn97-DYMk_mWXfOVZN_Qs-iPbGGh4ZlunGNVI8MLZv3T758fi4cwUFQpxqw=w680-h657-no?authuser=0",
+      "detail3":"https://lh3.googleusercontent.com/pw/AMWts8CITRd3ggEN4NQl9BLeYdxK72r8PAKE4386Kiggab4prPTfgGIYxMQta0755lVm8ZyCEqQjhrDMVHbzfUwRxBye9saAdGD_M-Rxjl6-K5WKFyRapRV6XX9wmWOeKUIUySIGEdibEllHepU4HnRGKh8V=w680-h657-no?authuser=0"
+    },
+    {
+      "id":5,
+      "avt":"https://web-linkanh.vercel.app/image/Trang%20Fashion/4%20(2).jpg",
+      "detail1":"https://lh3.googleusercontent.com/pw/AMWts8AW54xde-dEjmvjkpuiYiWOV1hmwTrKXyW5vinr2aaEIEQaYRaN2mq5AdoOvoHghQPkXPf6w2Xhyk5bqm8MalzaPxnJ9sWzMV0vvz4bIarHDzJWUhpzZFqMe0WgGV7ui16V70oAiJ4QiaF4lh0nAU-PBA=w985-h657-no?authuser=0",
+      "detail2":"https://lh3.googleusercontent.com/pw/AMWts8Cppgson4GL-r5kj-KqqwP4wabq548luinPa_KqRowaB_5ErD1N7sUUeJg3EUC9b8yuYDm2dMV2x7PXuESBtxfQppziUSyCEVYw5l1L0m4ZO0QGTY6I2XMJU_bUDOfKqNrj0u5wZ4FoW1umOorHt9BpXA=w985-h657-no?authuser=0",
+      "detail3":"https://lh3.googleusercontent.com/pw/AMWts8CU7HvzxWW6bXq1xTIDdyFjjuEWuzbIFcwzpnMQNK3etbmAX_-x50r_oXtc-tuR8LqKx6IbeHCQy1FSjtktH1p-5K7RDjj3qqvjR2DSKDmO7ARZpgptnNzQHhEd4n_zw9veYVmahFehPaobMy4AcA_h4g=w985-h657-no?authuser=0"
+    },
+    {
+      "id":6,
+      "avt":"https://web-linkanh.vercel.app/image/Trang%20Fashion/QDZ_0659.jpg",
+      "detail1":"https://lh3.googleusercontent.com/pw/AMWts8D11dWvA8VSgvv3gLZAMOLRQ5YLplpXDI4Fr7Pt9CG69TGaBeiPIh6J08mAblR-921wgwBN_6JvzE3GDh2Ypgc1MbcC4FxU2Cpe7JbI_nZzIeGvdsYMQcETZ6AygFUC1G1PYiOiUBVfjr53dDg2te08PQ=w985-h657-no?authuser=0",
+      "detail2":"https://lh3.googleusercontent.com/pw/AMWts8DavKBC9oWV7MXIQBMk5jq1mxTjhDOf2RW3yWff681InEOofSbGjqLqufeMzXpDmxpnHXcib6CUw-z-hWGdWCGPN0oSyb-ZvnHmzb2nn1U0nBKM9BG7p5Ki7oHxBl-PrJSiOYwVZfDwp1M3VSq9ds19aA=w439-h657-no?authuser=0",
+      "detail3":"https://lh3.googleusercontent.com/pw/AMWts8DavKBC9oWV7MXIQBMk5jq1mxTjhDOf2RW3yWff681InEOofSbGjqLqufeMzXpDmxpnHXcib6CUw-z-hWGdWCGPN0oSyb-ZvnHmzb2nn1U0nBKM9BG7p5Ki7oHxBl-PrJSiOYwVZfDwp1M3VSq9ds19aA=w439-h657-no?authuser=0"
+    }
+  ],
+  "info-shooting":[
+    {
+      "title":"FASHION",
+      "paragrap1":"Besides the role as a designer and a creative director, I also do modeling.",
+      "paragrap2":"I am not a professional model; however, each photoshoot ",
+      "paragrap4":"I modeled for myself always has a story behind. ",
+      "paragrap3":"(click into each picture to see the full collection)"
+    }
+  ],
+  "shooting":[
+    {
+      "id":1,
+      "avt":"https://web-linkanh.vercel.app/image/Trang%20Shooting/IMG_4393.jpg",
+      "detail1":"https://web-linkanh.vercel.app/image/Latvia/IMG_2274.JPG",
+      "detail2":"https://web-linkanh.vercel.app/image/Latvia/IMG_4376.jpg",
+      "detail3":"https://web-linkanh.vercel.app/image/Latvia/IMG_2284.JPG",
+      "detail4":"https://web-linkanh.vercel.app/image/Latvia/IMG_4388.jpg",
+      "detail5":"https://web-linkanh.vercel.app/image/Latvia/IMG_4389.jpg",
+      "detail6":"https://web-linkanh.vercel.app/image/Latvia/IMG_4390.jpg",
+      "detail7":"https://web-linkanh.vercel.app/image/Latvia/IMG_4391.jpg",
+      "detail8":"https://web-linkanh.vercel.app/image/Latvia/IMG_4393.jpg",
+      "title":"LATVIA"
+    },
+    {
+      "id":2,
+      "avt":"https://web-linkanh.vercel.app/image/Trang%20Shooting/IMG_2586.JPG",
+      "detail1":"https://web-linkanh.vercel.app/image/Lithuania/IMG_2636.JPG",
+      "detail2":"https://web-linkanh.vercel.app/image/Lithuania/IMG_2578.JPG",
+      "detail3":"https://web-linkanh.vercel.app/image/Lithuania/IMG_2586.JPG",
+      "detail4":"https://web-linkanh.vercel.app/image/Lithuania/IMG_4394.jpg",
+      "detail5":"https://web-linkanh.vercel.app/image/Lithuania/IMG_2590.JPG",
+      "detail6":"https://web-linkanh.vercel.app/image/Lithuania/IMG_2595.JPG",
+      "detail7":"https://web-linkanh.vercel.app/image/Lithuania/IMG_2630.JPG",
+      "detail8":"https://web-linkanh.vercel.app/image/Lithuania/IMG_2576.JPG",
+      "title":"LITHUANIA"
+    },
+    {
+      "id":3,
+      "avt":"https://web-linkanh.vercel.app/image/Trang%20Shooting/AHP_Linh_Final-23.jpeg",
+      "detail1":"https://web-linkanh.vercel.app/image/Estonia/AHP_Linh_Final-21.jpeg",
+      "detail2":"https://web-linkanh.vercel.app/image/Estonia/AHP_Linh_Final-22.jpeg",
+      "detail3":"https://web-linkanh.vercel.app/image/Estonia/AHP_Linh_Final-23.jpeg",
+      "detail4":"https://web-linkanh.vercel.app/image/Estonia/IMG_4402.jpg",
+      "detail5":"https://web-linkanh.vercel.app/image/Estonia/AHP_Linh-255.jpeg",
+      "detail6":"https://web-linkanh.vercel.app/image/Estonia/AHP_Linh_Final-2.jpeg",
+      "detail7":"https://web-linkanh.vercel.app/image/Estonia/AHP_Linh_Final-2.jpeg",
+      "detail8":"https://web-linkanh.vercel.app/image/Estonia/AHP_Linh_Final-7.jpeg",
+      "title":"ESTONIA"
+    },
+    {
+      "id":4,
+      "avt":"https://web-linkanh.vercel.app/image/Trang%20Shooting/IMG_2282.PNG",
+      "detail1":"https://web-linkanh.vercel.app/image/Paris/IMG_2599.jpeg",
+      "detail2":"https://web-linkanh.vercel.app/image/Paris/IMG_9945.JPG",
+      "detail3":"https://web-linkanh.vercel.app/image/Paris/IMG_2279.PNG",
+      "detail4":"https://web-linkanh.vercel.app/image/Paris/IMG_2280.PNG",
+      "detail5":"https://web-linkanh.vercel.app/image/Paris/IMG_2283.PNG",
+      "detail6":"https://web-linkanh.vercel.app/image/Paris/IMG_2282.PNG",
+      "detail7":"https://web-linkanh.vercel.app/image/Paris/IMG_2297.jpeg",
+      "detail8":"https://web-linkanh.vercel.app/image/Paris/IMG_2388.jpeg",
+      "title":"PARIS"
+    },
+    {
+      "id":5,
+      "avt":"https://web-linkanh.vercel.app/image/Trang%20Shooting/33482B4A-449D-44E3-8EB4-0A4B8A579F12.jpeg",
+      "detail1":"https://web-linkanh.vercel.app/image/Belgium/33482B4A-449D-44E3-8EB4-0A4B8A579F12.jpeg",
+      "detail2":"https://web-linkanh.vercel.app/image/Belgium/8350639C-7FB5-4764-B2B4-78E7BADE99B1.jpg",
+      "detail3":"https://web-linkanh.vercel.app/image/Belgium/3DD7A1E7-0B6A-4BBC-B6F8-6F25AC478648.jpg",
+      "detail4":"https://web-linkanh.vercel.app/image/Belgium/7AC55046-C9B3-4FF1-8F82-EEC3B4E4B2D7.jpg",
+      "detail5":"https://web-linkanh.vercel.app/image/Belgium/8935F17F-4BD7-4256-8DDA-E02CAA2EA1DD.jpeg",
+      "detail6":"https://web-linkanh.vercel.app/image/Belgium/B43E5C93-86C0-46B6-942D-E12A3B52A173.jpeg",
+      "detail7":"https://web-linkanh.vercel.app/image/Belgium/B5443832-1EFD-4DAC-B33C-7E87F894AD71.jpeg",
+      "detail8":"https://web-linkanh.vercel.app/image/Belgium/D6B565B0-FD98-484F-B16C-7055FA9C2607.jpg",
+      "title":"BELGIUM"
+    },
+    {
+      "id":6,
+      "avt":"https://web-linkanh.vercel.app/image/Trang%20Shooting/DSC_7531_Original.jpg",
+      "detail1":"https://web-linkanh.vercel.app/image/Bohemian/meo%20meo_Original.jpg",
+      "detail2":"https://web-linkanh.vercel.app/image/Bohemian/DSC_7356_Original.jpg",
+      "detail3":"https://web-linkanh.vercel.app/image/Bohemian/alllo_Original.jpg",
+      "detail4":"https://web-linkanh.vercel.app/image/Bohemian/alo_Original.jpg",
+      "detail5":"https://web-linkanh.vercel.app/image/Bohemian/DSC_7303_Original.jpg",
+      "detail6":"https://web-linkanh.vercel.app/image/Bohemian/DSC_7602_Original.jpg",
+      "detail7":"https://web-linkanh.vercel.app/image/Bohemian/DSC_7612_Original.jpg",
+      "detail8":"https://web-linkanh.vercel.app/image/Bohemian/DSC_7765_Original.JPG",
+      "title":"BOHEM"
+    },
+    {
+      "id":7,
+      "avt":"https://web-linkanh.vercel.app/image/Trang%20Shooting/DSC_6993_Original.jpg",
+      "detail1":"https://web-linkanh.vercel.app/image/Coral/DSC_6927_Original.jpg",
+      "detail2":"https://web-linkanh.vercel.app/image/Coral/DSC_6917_Original.jpg",
+      "detail3":"https://web-linkanh.vercel.app/image/Coral/DSC_6941_Original.jpg",
+      "detail4":"https://web-linkanh.vercel.app/image/Coral/DSC_6993_Original.jpg",
+      "detail5":"https://web-linkanh.vercel.app/image/Coral/DSC_7157_Original.jpg",
+      "detail6":"https://web-linkanh.vercel.app/image/Coral/DSC_7162_Original.jpg",
+      "detail7":"https://web-linkanh.vercel.app/image/Coral/DSC_7182_Original.jpg",
+      "detail8":"https://web-linkanh.vercel.app/image/Coral/DSC_7211_Original.jpg",
+      "title":"CORAL"
+    },
+    {
+      "id":8,
+      "avt":"https://web-linkanh.vercel.app/image/Trang%20Shooting/IMG_0922.jpeg",
+      "detail1":"https://web-linkanh.vercel.app/image/Aodai/IMG_0922.jpeg",
+      "detail2":"https://web-linkanh.vercel.app/image/Aodai/IMG_0216.PNG",
+      "detail3":"https://web-linkanh.vercel.app/image/Aodai/IMG_0214.PNG",
+      "detail4":"https://web-linkanh.vercel.app/image/Aodai/IMG_1042.jpeg",
+      "detail5":"https://web-linkanh.vercel.app/image/Aodai/IMG_1053.jpeg",
+      "detail6":"https://web-linkanh.vercel.app/image/Aodai/IMG_1088.jpeg",
+      "detail7":"https://web-linkanh.vercel.app/image/Aodai/IMG_1119.jpeg",
+      "detail8":"https://web-linkanh.vercel.app/image/Aodai/IMG_1161.jpeg",
+      "title":"AODAI"
+    }
+    
+  ],
+  "dance":[
+    {
+      "id":1,
+      "img":"https://web-linkanh.vercel.app/image/Dance/SD1.png",
+      "link":"https://youtu.be/hWOj-IMpPbQ"
+    },
+    {
+      "id":2,
+      "img":"https://web-linkanh.vercel.app/image/Dance/SD2.png",
+      "link":"https://youtu.be/Ub1x6Deunhw"
+    },
+    {
+      "id":3,
+      "img":"https://web-linkanh.vercel.app/image/Dance/SD3.png",
+      "link":"https://youtu.be/_2Hx3zYmxzU"
+    },
+    {
+      "id":4,
+      "img":"https://web-linkanh.vercel.app/image/Dance/SD4.png",
+      "link":"https://youtu.be/kx3axBjxwZs"
+    },
+    {
+      "id":5,
+      "img":"https://web-linkanh.vercel.app/image/Dance/SD5.png",
+      "link":"https://youtu.be/ztxD9kVJMUc"
+    },
+    {
+      "id":6,
+      "img":"https://web-linkanh.vercel.app/image/Dance/SD6.png",
+      "link":"https://youtu.be/PGk2PkLMBkI"
+    },
+    {
+      "id":7,
+      "img":"https://web-linkanh.vercel.app/image/Dance/SD7.png",
+      "link":"https://youtu.be/pQbSL9yYh5w"
+    },
+    {
+      "id":8,
+      "img":"https://web-linkanh.vercel.app/image/Dance/SD8.png",
+      "link":"https://youtu.be/DYpzy_J22NE"
+    },
+    {
+      "id":9,
+      "img":"https://web-linkanh.vercel.app/image/Dance/SD9.png",
+      "link":"https://youtu.be/ybSeoNv4fVs"
+    }
+  ],
+  "project":[
+    {
+      "id":1,
+      "link":"https://web-linkanh.vercel.app/image/Trang%20Projects/37619928_1874629726178730_7106898430689017856_n.jpg",
+      "title":"NHA FASHION SHOW",
+      "detail1":"https://web-linkanh.vercel.app/image/NHA%20FASHION%20SHOW/37620951_1874629269512109_7235533010441863168_n%20(1).jpg",
+      "detail2":"https://web-linkanh.vercel.app/image/NHA%20FASHION%20SHOW/37619928_1874629726178730_7106898430689017856_n.jpg",
+      "detail3":"https://web-linkanh.vercel.app/image/NHA%20FASHION%20SHOW/37627968_1874637442844625_6851638663042826240_n.jpg",
+      "detail4":"https://web-linkanh.vercel.app/image/NHA%20FASHION%20SHOW/37672613_1874636836178019_4509262258282430464_n.jpg",
+      "detail5":"https://web-linkanh.vercel.app/image/NHA%20FASHION%20SHOW/37641043_1874636732844696_6728306057208135680_n.jpg",
+      "detail6":"https://web-linkanh.vercel.app/image/NHA%20FASHION%20SHOW/37624192_1874637186177984_4906824604661579776_n.jpg",
+      "paragrap1":" 'NHA' FASHION SHOW 2018",
+      "paragrap2":"HANOI, VIETNAM",
+      "paragrap3":"Creative Director: Nguyen Thao Nguyen",
+      "paragrap4":"Designers: Pham Tram Anh, Trinh Fashion",
+      "paragrap5":"Head of Finance Department: Dinh Dieu Linh"
+    },
+    {
+      "id":2,
+      "link":"https://web-linkanh.vercel.app/image/Trang%20Projects/IMG_0691.jpg",
+      "title":"INTERNSHIPS",
+      "detail1":"https://web-linkanh.vercel.app/image/Internships/4d8f943b-4fb3-4a88-9903-37a055f681c5.jpg",
+      "detail2":"https://web-linkanh.vercel.app/image/Internships/89a3b13f-8024-4f49-8b48-7bc31d666716.jpg",
+      "detail3":"https://web-linkanh.vercel.app/image/Internships/8e627d34-2f11-49b1-ac0b-abf1d1b55ee1.jpg",
+      "detail4":"https://web-linkanh.vercel.app/image/Internships/IMG_0683.jpg",
+      "detail5":"https://web-linkanh.vercel.app/image/Internships/IMG_0691.jpg",
+      "detail6":"https://web-linkanh.vercel.app/image/Internships/IMG_0696.jpg",
+      "paragrap1":"",
+      "paragrap2":"",
+      "paragrap3":"",
+      "paragrap4":"GIAMBATISSA VALLI - SS23 SHOWROOM - 06&10/2022",
+      "paragrap5":"CASTOR FASHION - MANTU SHOWROOM - 01/2023"
+    },
+    {
+      "id":3,
+      "link":"https://web-linkanh.vercel.app/image/Trang%20Projects/Dieu%20Linh%20Dinh%20-%20BFM1%20-%20POSTCARDS%20(2)-1.png",
+      "title":"GRAPHIC DESIGN",
+      "detail1":"https://web-linkanh.vercel.app/image/Graphic%20Design/Dieu%20Linh%20Dinh%20-%20BFM1%20-%20POSTCARDS%20(2)-1.png",
+      "detail2":"https://web-linkanh.vercel.app/image/Graphic%20Design/Dieu%20Linh%20Dinh%20-%20BFM1%20-%20POSTCARDS%20(2)-2.png",
+      "detail3":"https://web-linkanh.vercel.app/image/Graphic%20Design/Dieu%20Linh%20Dinh%20-%20BFM1%20-%20POSTCARDS%20(2)-3.png",
+      "detail4":"https://web-linkanh.vercel.app/image/Graphic%20Design/Dieu%20Linh%20Dinh%20BFM2B%20Logo%20Design%201-4.png",
+      "detail5":"https://web-linkanh.vercel.app/image/Graphic%20Design/Magazine%20Indesign%20-%20Dieu%20Linh%20Dinh%20-%20BFM2B%201%20(1)-01.png",
+      "detail6":"",
+      "paragrap1":" ",
+      "paragrap2":"MODULE: GRAPHIC DESIGN",
+      "paragrap3":"IFA PARIS (INTERNATIONAL FASHION ACADEMY)",
+      "paragrap4":"ILLUSTRATOR, PHOTOSHOP, INDESIGN",
+      "paragrap5":"GRADE: A"
+    },
+    {
+      "id":4,
+      "link":"https://web-linkanh.vercel.app/image/Trang%20Projects/Innovative-16.png",
+      "title":"ANTEVORTA",
+      "detail1":"https://web-linkanh.vercel.app/image/ANTEVORTA/Innovative-04.png",
+      "detail2":"https://web-linkanh.vercel.app/image/ANTEVORTA/Innovative-05.png",
+      "detail4":"https://web-linkanh.vercel.app/image/ANTEVORTA/Innovative-06.png",
+      "detail5":"https://web-linkanh.vercel.app/image/ANTEVORTA/Innovative-12.png",
+      "detail3":"https://web-linkanh.vercel.app/image/ANTEVORTA/Innovative-14.png",
+      "detail6":"https://web-linkanh.vercel.app/image/ANTEVORTA/Innovative-17.png",
+      "paragrap1":"MODULE: INNOVATIVE CUSTOMER EXPERIENCE",
+      "paragrap2":"IFA PARIS (INTERNATIONAL FASHION ACADEMY)",
+      "paragrap3":"GRADE: A+",
+      "paragrap4":"Students: Dieu-Linh Dinh | Marianne Lim | Kate Armstrong",
+      "paragrap5":"Mishal J. Fateally | Phuong-Anh Tran"
+    },
+    {
+      "id":5,
+      "link":"https://web-linkanh.vercel.app/image/Miss%20Xuan/DSC01337.JPG",
+      "title":"MISS XUAN 2023",
+      "detail1":"https://web-linkanh.vercel.app/image/Miss%20Xuan/327314376_682191820322275_3960461514084429356_n.jpg",
+      "detail2":"https://web-linkanh.vercel.app/image/Miss%20Xuan/DSC01335.jpg",
+      "detail4":"https://web-linkanh.vercel.app/image/Miss%20Xuan/DSC01337.JPG",
+      "detail5":"https://web-linkanh.vercel.app/image/Miss%20Xuan/DSC01339.jpg",
+      "detail3":"https://web-linkanh.vercel.app/image/Miss%20Xuan/HHH08307.jpg",
+      "detail6":"https://web-linkanh.vercel.app/image/Miss%20Xuan/DSC01346.JPG",
+      "paragrap1":"",
+      "paragrap2":"",
+      "paragrap3":"DINH DIEU LINH - TOP 15 MISS XUAN 2023 ",
+      "paragrap4":"Union des Etudiants Vietnamiens en France",
+      "paragrap5":"(05.Feb.2023)"
+    }
+  ]
+
+}
