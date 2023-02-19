@@ -17,7 +17,7 @@
         />
         <div class="title-banner">
           <h1>${value.titleBanner}</h1>
-          <h3>${value.titleBanner2}"</h3>
+          <h3>${value.titleBanner2}</h3>
         </div>
       </div>
       <div class="video">
