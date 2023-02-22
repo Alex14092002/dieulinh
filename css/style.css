@@ -426,6 +426,17 @@ transform: translate(-50%, -50%);
     font-size: 18px;
     margin: 0px;
 }
+@media(max-width:1300px){
+    .title-product-project h1{
+        font-size: 28px;
+    }
+
+}
+@media(max-width:800px){
+    .title-product-project h1{
+        font-size: 17px;
+    }
+}
 @media(max-width:600px){
     .title-product-project h1{
         font-size: 17px;
