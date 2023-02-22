@@ -20,3 +20,31 @@
     }
   }
 })();
+
+
+(async () => {
+  const main = document.getElementById("TxtDance");
+
+  const response = await fetch(
+    `https://linh-dieu-data-default-rtdb.firebaseio.com/info-dance.json`
+  );
+  const product = await response.json();
+
+  if (product) {
+    for (const [key, value] of Object.entries(product)) {
+      main.innerHTML += `
+      <div class="title-dance container">
+      <h1>${value.title}</h1>
+  </div>
+  <div class="para container">
+      <p>${value.paragrap1}
+      </p>
+      <p>${value.paragrap2}</p>
+      <br/>
+      <p class="bold">${value.paragrap3}</p> 
+  </div>
+        
+    `;
+    }
+  }
+})();

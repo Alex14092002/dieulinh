@@ -19,9 +19,10 @@
   "info-fashion":[
     {
       "title":"FASHION",
-      "paragrap1":"In 2019, I founded my own fashion project under the name 'Lốc en Lock' or 'LnL Fashion Project.', which aims to provide a professional fashion environment for talented young designers in Hanoi, Vietnam.",
-      "paragrap2":"As a founder and a creative director, I directed around 40 members, including models, photographers, and makeup artists at that time. Here are some LnL's highlight collections . ",
-      "paragrap3":"(click into each picture to see the full collection)"
+      "paragrap1":"LnL Fashion Project",
+      "paragrap2":"Creative Director, Designer: Dinh Dieu Linh",
+      "paragrap3":"Hanoi, Vietnam",
+      "paragrap4":"(click into each picture for details)"
     }
   ],
   "fashion":[
@@ -70,11 +71,11 @@
   ],
   "info-shooting":[
     {
-      "title":"FASHION",
-      "paragrap1":"Besides the role as a designer and a creative director, I also do modeling.",
-      "paragrap2":"I am not a professional model; however, each photoshoot ",
-      "paragrap4":"I modeled for myself always has a story behind. ",
-      "paragrap3":"(click into each picture to see the full collection)"
+      "title":"SHOOTING",
+      "paragrap1":"Stylist, Modeling: Dinh Dieu Linh",
+      "paragrap2":"Location: Europe, Vietnam",
+     
+      "paragrap3":"(click into each picture for details)"
     }
   ],
   "shooting":[
@@ -229,6 +230,14 @@
       "id":9,
       "img":"https://web-linkanh.vercel.app/image/Dance/SD9.png",
       "link":"https://youtu.be/ybSeoNv4fVs"
+    }
+  ],
+  "info-dance":[
+    {
+      "title":"DANCE",
+      "paragrap1":"Magnetix Crew, Paris, France",
+      "paragrap2":"Dancer Participartion: Lili (Dinh Dieu Linh)",
+      "paragrap3":"(click into each picture for details)"
     }
   ],
   "project":[

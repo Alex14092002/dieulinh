@@ -17,8 +17,8 @@
           </p>
           <p>${value.paragrap2}
           </p>
-          <p>${value.paragrap4}</p>
-          <p>${value.paragrap3}</p>
+          <br/>
+          <p class="bold">${value.paragrap3}</p>
         </div>
           
       `;
