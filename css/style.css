@@ -427,6 +427,10 @@ transform: translate(-50%, -50%);
     margin: 0px;
 }
 @media(max-width:600px){
+    .title-product-project h1{
+        font-size: 17px;
+        
+    }
     .title-shooting h1{
         font-size: 35px;
     }
@@ -453,7 +457,7 @@ transform: translate(-50%, -50%);
         font-size: 15px;
     }
     .title-product{
-        left: 20%;
+       
         font-size: 25px;
     }
     .shooting{
@@ -462,7 +466,9 @@ transform: translate(-50%, -50%);
     .icon-footer i{
         font-size: 16px;
     }
-    
+    .icon-footer{
+       
+    }
 }
 @media(max-width:360px){
    
