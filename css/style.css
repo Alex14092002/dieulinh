@@ -250,9 +250,9 @@ transform: translate(-50%, -50%);
 .title-product{
     font-size: 35px;
     position: absolute;
-    bottom: 10%;
-    right: 27%;
-    left: 23%;
+    bottom: 7%;
+    transform: translate(-50%, -50%);
+    left: 50%;
     color: #fff;
     font-weight: bold;
     
@@ -337,7 +337,8 @@ transform: translate(-50%, -50%);
     font-weight: bold;
     bottom: 10%;
     color: #fff;
-    left: 17%;
+    left: 50%;
+      transform: translate(-50%, -50%);
     text-align: center;
 }
 .main-first{
@@ -390,12 +391,16 @@ transform: translate(-50%, -50%);
 
 .title-product-project{
     position: absolute;
-    bottom: 10%;
+    bottom: 5%;
     text-align: center;
     color: #fff;
     background: #000;
-    left:12%;
+    left:50%;
+    transform: translate(-50%, -50%);
     padding: 10px;
+}
+.title-product-project h1{
+    font-size: 32px;
 }
 .name-project{
     text-align: center;

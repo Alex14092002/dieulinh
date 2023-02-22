@@ -42,7 +42,7 @@
         <div class="box-item-product col-6 col-md-3">
           <a href="../page/shooting.html">
             <img src="${value.product2Img}" alt="" width="100%" height="360px">
-            <h1 class="title-product shooting">${value.product2Txt}</h1>
+            <h1 class="title-product ">${value.product2Txt}</h1>
           </a>
         </div>
         <div class="box-item-product col-6 col-md-3">
