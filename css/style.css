@@ -44,7 +44,7 @@ body{
 .menu-items{
     order: 2;
     display: flex;
-    margin-bottom: 8px;
+    margin-bottom: 0px;
 }
 .logo{
     order: 1;
