@@ -74,7 +74,7 @@ body{
 }
 
 @media (max-width: 768px){
-    
+ 
     .navbar{
         opacity: 0.95;
     }
@@ -401,6 +401,7 @@ transform: translate(-50%, -50%);
 }
 .title-product-project h1{
     font-size: 32px;
+    margin-bottom: 0px;
 }
 .name-project{
     text-align: center;
@@ -488,4 +489,9 @@ transform: translate(-50%, -50%);
     }
   
     
+}
+@media(max-width:768px){
+    .title-banner{
+        bottom: -5%;
+    }
 }
