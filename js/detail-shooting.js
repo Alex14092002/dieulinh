@@ -38,6 +38,9 @@ let id_item = params.get("id");
         <div class="  img-shooting col-12 col-md-4">
         <img src="${product.detail8}" alt="" width="100%" height="450px">
         </div>
+        <div class="  img-shooting col-12 col-md-4">
+        <img src="${product.detail9}" alt="" width="100%" height="450px">
+        </div>
         `
         title.innerHTML += `
         <div class="title-shooting">
